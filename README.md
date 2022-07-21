@@ -1,4 +1,4 @@
-# Leave-Management-Portal
+# Leave Management Portal
 
 – Code Repo for Leave Management Portal Project
 
