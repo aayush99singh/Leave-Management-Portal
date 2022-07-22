@@ -6,4 +6,4 @@
 
 – Other Key Features : Faculties can start a thread to discuss their application with higher authorities, they can update their profile, add courses that they offer and their work (papers/journals). The director has the power to change the HoDs/Deans.
 
-– Tools & Framework Used : HTML, CSS, Bootstrap, Jinja, Flask, PostgreSQL, MongoDB
+– Tools & Framework Used : HTML, CSS, Bootstrap, Flask, Jinja, MongoDB, PostgreSQL
